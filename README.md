@@ -5,7 +5,7 @@ The CNN-model in the corresponding paper overfits the data (check the distributi
 The point is there might be simpler solutions, diving into complex models do not always return the best results.
 
 Here is the confusion matrix of the simple solution (details in the notebook). Cannot share paper's because of copyright issues.
-![confusion matrix](https://drive.google.com/file/d/1lSXEhW8mnwujOL9H0ePjffyqUhYA9Wjv/view?usp=sharing)
+![confusion matrix](https://github.com/SerhadS/alternative-solution/blob/main/github_alt_sol.PNG)
 
 
 The corresponding model and data files are in TEM's GitHub repository: https://github.com/yw57721/IEEE-TEM-semantic-gap-2020
