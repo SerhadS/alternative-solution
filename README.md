@@ -1,4 +1,4 @@
-### An alternative & better model than the CNN-based model in the paper https://doi.org/10.1109/TEM.2020.3021698 
+### A simpler model with better performance than the CNN-based model in the paper https://doi.org/10.1109/TEM.2020.3021698 
 
 The CNN-model in the corresponding paper overfits the data (check the distributions in the paper) and classify poorly when the training data is unbalanced. In this repository, I trained a simpler SVM classifier without using GloVE embeddings or parameter search.
 
